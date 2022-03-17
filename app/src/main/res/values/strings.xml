@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nama">Rizal Abdul Basith</string>
+    <string name="subtext">Bismillah Fullstack Developer</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque diam volutpat commodo sed egestas egestas. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Molestie nunc non blandit massa. Eu tincidunt tortor aliquam nulla. Arcu dui vivamus arcu felis bibendum. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Nibh tellus molestie nunc non blandit. Mi proin sed libero enim sed faucibus turpis in. Netus et malesuada fames ac turpis. Gravida arcu ac tortor dignissim convallis aenean et tortor at. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Metus aliquam eleifend mi in nulla. Sodales ut etiam sit amet nisl purus in. Leo urna molestie at elementum.\n\nConsectetur purus ut faucibus pulvinar elementum integer enim neque volutpat. Neque laoreet suspendisse interdum consectetur. Elit duis tristique sollicitudin nibh sit amet commodo nulla. Nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Volutpat est velit egestas dui id ornare. In nibh mauris cursus mattis molestie a iaculis. Faucibus in ornare quam viverra orci sagittis eu volutpat odio. Venenatis tellus in metus vulputate eu scelerisque. Nunc aliquet bibendum enim facilisis gravida neque. Suspendisse potenti nullam ac tortor vitae. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Fermentum posuere urna nec tincidunt praesent. Gravida quis blandit turpis cursus in.</string>
+    <string name="L">Laki-Laki</string>
+    <string name="P">Perempuan</string>
+    <string name="pesan">Pesan</string>
+    <string name="simpan">Simpan</string>
+    <string name="keluar">Keluar</string>
+</resources>
